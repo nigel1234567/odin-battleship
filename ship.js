@@ -32,3 +32,4 @@ const Ship = (player, length) => {
     }
 }
 
+module.exports = Ship
