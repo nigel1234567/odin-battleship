@@ -20,7 +20,7 @@ const Ship = (player, length) => {
         } else {
             sunk = false;
         }
-        console.log(sunk)
+        return sunk
     }
 
     return {
